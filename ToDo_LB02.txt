@@ -1,0 +1,16 @@
+To-do Liste LB02 Sam & Nils
+
+Frontend/Formular fertigstellen (HTML -> index.html)
+
+Validation fertigstellen (JavaScript -> validate-inputs.js)
+	- Validierung Anrede (muss gewählt sein)
+	- Validierung Username (muss ausgefüllt sein, mind. & max. length, (keine Zahlen?))
+	- Validierung Email (@ + .com/.ch/.irgendwas, mind & max. length)
+	- Validierung Password (muass ausgefüllt sein, mind & max. length)
+	- Validierung Radiobuttons?
+
+Validation Client fertigstellen
+	- Copy + Paste der Validate Inputs aus Client Validation
+	- Vergabe uuid (Server -> Client)
+
+	
